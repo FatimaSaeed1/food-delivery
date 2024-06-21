@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Food Delivery Backend Api With Node Js Express REST API & Socket.io API 
 
 # codeforany @codeforany
@@ -70,9 +68,3 @@ A new node express project.
 
 ## Node app run:
 node app.js
-=======
-
->>>>>>> 2c813e9579b964013e4e9cc17e0a69f15352efec
-=======
-Combined or chosen content without conflict markers
->>>>>>> 7a8dad7584414fb30d2fbb1e09ddfa7fe1922092
